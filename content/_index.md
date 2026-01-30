@@ -1,3 +1,8 @@
+---
+title: "about"
+date: "2026-01-28"
+---
+
 # WELCOME TO J404.dev
 
 ## WHAT CAN I FIND HERE???
@@ -9,7 +14,7 @@ Nothing here (except for the occasional meme post, and some unimportant code) is
 Check out some of my posts [here](/posts)
 
 ## I'M STILL CONFUSED
-rtfm  (:< ------> [tfm](/about)
+r[tfm](/about) (:<
 
 ## YOUR SPELLING IS HORRIBLE
 > yeah, it is.
