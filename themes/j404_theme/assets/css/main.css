@@ -111,3 +111,15 @@ a {
   color: var(--color-heading);
   text-decoration: underline;
 }
+
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 10px;
+  gap: 10px;
+}
+
+.title {
+  text-decoration: none;
+  color: var(--color-purple);
+}
