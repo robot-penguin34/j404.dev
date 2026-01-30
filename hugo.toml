@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://j404.dev'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'j404.dev'
 theme = "j404_theme"
