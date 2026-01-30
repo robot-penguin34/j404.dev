@@ -109,5 +109,5 @@ footer {
 
 a {
   color: var(--color-heading);
-  text-decoration: none;
+  text-decoration: underline;
 }
