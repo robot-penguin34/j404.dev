@@ -1,3 +1,7 @@
+---
+title: "The Linux Experience"
+---
+
 # Things I learned while using Ubuntu as a Desktop
 
 # Installation
