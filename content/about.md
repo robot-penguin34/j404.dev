@@ -6,7 +6,12 @@
 I am not naive enough to dump all of my social details here, but I am known as netmaster on j404.dev.
 
 ## ABOUT ME 
-I am just a nerd trying to help other nerds nerd and share my interests online whilst doing good for the world (hopefully) in the process.
+I am just a nerd trying to help other nerds nerd and share my interests online whilst doing good for the world (hopefully) in the process. My code journey started sometime around 2022.
+
+# SO WHAT IS THIS BLOG ABOUT
+Exploring, Renovating, hacking (not like the cybercrime kind /:), and using technology for (hopefully) good. 
+
+***
 
 ## SOCIALS
 [Github: robot-penguin34](https://github.com/robot-penguin34) (don't even ask)
