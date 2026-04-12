@@ -12,4 +12,4 @@ Why is it interesting again?
 
 Because in this time, you can have things done by someone or something (ai) else. Or you can do it yourself.
 
-Check out some of the posts on this topic [here](/posts/Ham%20Radio)
+Check out some of the posts on this topic [here](/posts/ham-radio)
